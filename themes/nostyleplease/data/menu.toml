@@ -1,0 +1,33 @@
+[[entries]]
+title = "Info"
+
+  [[entries.entries]]
+  title = "Who am I?"
+  url = "about"
+
+[[entries]]
+title = "Dev"
+
+  [entries.post_list]
+  section = "dev"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "dev"
+
+[[entries]]
+title = "Thoughts"
+
+  [entries.post_list]
+  section = "thoughts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "thoughts"
+
+[[entries]]
+title = "Translations"
+
+  [entries.post_list]
+  section = "translations"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "translations"

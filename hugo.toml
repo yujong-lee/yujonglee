@@ -1,0 +1,4 @@
+baseURL = 'https://yujonglee.com/'
+languageCode = 'en-us'
+title = 'yujonglee'
+theme = 'nostyleplease'
